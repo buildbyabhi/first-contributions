@@ -1,12 +1,14 @@
+- [Abhishek](https://github.com/ABHIKALVIUM)
+- [buptjrq](https://github.com/buptjrq)
+- [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
-
-- [tanve13](https://github.com/tanve13) #Contributor
-
-### New Contri
-
+- Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
+- [cyx89032-dot](https://github.com/cyx89032-dot)
+- [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
+- [Thejas K](https://github.com/thejas-1999)
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
-
+- [Tamanna](https://github.com/tamannamalik09)
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
@@ -50,6 +52,7 @@
 - [Mythrayee] (https://github.com/Mythrayee12)
 - [SabbathBro](https://github.com/SabbathBro)
 - [Prashanth Rao](https://github.com/dpr2106)
+- [Vagner Ferreira](https://github.com/Vagnerkrg)
 - [Ishwika Bitla](https://github.com/IshwikaBitla)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
@@ -120,6 +123,7 @@
 - [Prathamesh Jadhav](https://github.com/prathameshjadhav22)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - []
+- [Doffy] (https://github.com/Doffy4102)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rish-p9)
@@ -225,6 +229,7 @@
 - [tanish singla](https://github.com/tanish4561/first-contributions)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
+- [Anubhav Singhal] (https://https://github.com/singhalanubhav55-design)
 - [Marlon] (https://github.com/MarlonSC14)
 - [Shaurya] (https://github.com/shauryagangrade)
 - [Mihailo R] (https://github.com/mihailoradovic)
@@ -241,6 +246,7 @@
 - [Sam Bradley] (https://github.com/SamBradley2024)
 - [Aaron](https://github.com/Aaro2745)
 - [Felix](https://github.com/LixzyA)
+- Gunbuster-byte
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Sai Anirudh Siddi] (https://github.com/Anirudh64210)
@@ -795,8 +801,9 @@
 - [Dominic](https://github.com/mozz37)
 - [DonnieJ](https://github.com/jdmade)
 - [Markus Baumann](https://github.com/eybmits)
+- [GMAPLE777](https://github.com/GMAPLE777)
 
-Aakash Gupta
+- Aakash Gupta
 
 - [Donny Guo](https://github.com/Donny-Guo)
 - [Dor Cohen](https://github.com/Dor11126)
@@ -1253,6 +1260,7 @@ Aakash Gupta
 - [Piotr Wrzosek](https://github.com/pwrzosek)
 - [Piyush Paranjape](https://github.com/piyushparanjape98)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
+- [Sethuraman](https://github.com/sethuramansethu008-debug)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
 - [Vodkrox](https://github.com/vodkrox)
@@ -1269,6 +1277,7 @@ Aakash Gupta
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
+- [Jacob Xu] (https://github.com/hacoobamatata)
 - [Pranam Pagi](https://github.com/pranampagi)
 - [Pavitra Boga](https://github.com/itspb-ux)
 - [Pranav Anandarao](https://github.com/pranandarao)
@@ -2384,3 +2393,11 @@ Aakash Gupta
 - [Konchigeri Akash](https://github.com/Konchigeriakash)
 
 - [Hemanth Kumar](https://github.com/hemanth-2-0-0-5)
+- [Mehedi Hasan] (https://github.com/mehedi-05)
+- [Ujjwal](https://github.com/Ujjwal-sharma-mudgil)
+- [Gaurav Garg](https://github.com/GauravGarg2087)
+- [Amisha](https://github.com/Amisha2405)
+- [Nithish Sarwin](https://github.com/Nithish-code17)
+- [Tatiana Perez](https://github.com/auxiliar1comprasaca-svg)
+- [Jessica Elliott](https://github.com/jeelliot)
+- [01w-01](https://github.com/01w-01)
